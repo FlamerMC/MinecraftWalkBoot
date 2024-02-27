@@ -25,7 +25,7 @@ echo '
              ..
 '
 
-#sudo -i
+sudo -i
 echo 'Checking Dependineis cant spell :)'
 apt install unzip
 apt install plymouth
